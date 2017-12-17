@@ -23,5 +23,5 @@ ___
 - Yanina Mercado
 - Elena Japa
 - Ricardo Puma
-- Yohanna
+- Yoanna Hernández
 - Estephanie Frias
